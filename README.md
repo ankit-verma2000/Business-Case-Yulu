@@ -1,5 +1,6 @@
 # Business-Case-Yulu
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/0a5334f0-a09c-481a-9fe2-72f30c1c7919)
+
 
 # About Yulu
 
